@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/chord-patterns/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/chord-patterns/static/js/main.674adcbf.chunk.js",
+    "main.js.map": "/chord-patterns/static/js/main.674adcbf.chunk.js.map",
+    "runtime-main.js": "/chord-patterns/static/js/runtime-main.39ba2e99.js",
+    "runtime-main.js.map": "/chord-patterns/static/js/runtime-main.39ba2e99.js.map",
+    "static/js/2.8ff86a98.chunk.js": "/chord-patterns/static/js/2.8ff86a98.chunk.js",
+    "static/js/2.8ff86a98.chunk.js.map": "/chord-patterns/static/js/2.8ff86a98.chunk.js.map",
+    "static/js/3.21e38a89.chunk.js": "/chord-patterns/static/js/3.21e38a89.chunk.js",
+    "static/js/3.21e38a89.chunk.js.map": "/chord-patterns/static/js/3.21e38a89.chunk.js.map",
+    "index.html": "/chord-patterns/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/chord-patterns/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.8ff86a98.chunk.js.LICENSE.txt": "/chord-patterns/static/js/2.8ff86a98.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/chord-patterns/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.39ba2e99.js",
+    "static/js/2.8ff86a98.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.674adcbf.chunk.js"
+  ]
+}
