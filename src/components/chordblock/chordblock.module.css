@@ -1,0 +1,22 @@
+.chord-block {
+    display: flex;
+    flex-direction: column;
+    width: 100px;
+    height: 100px;
+    border: 1px solid grey;
+    padding: 0;
+    background-color: #ecf0f1;
+}
+
+.chord-block .chord-section {
+    text-align: center;
+    font-weight: bold;
+}
+
+.chord {
+    color: #7f8c8d;
+}
+
+.scale-degree {
+    color: #bdc3c7;
+}
